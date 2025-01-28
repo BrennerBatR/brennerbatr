@@ -32,11 +32,14 @@
 | **Node.js**          | Microservices, APIs   | ⭐⭐⭐⭐⭐               |
 | **NestJS**           | Scalable backends     | ⭐⭐⭐⭐⭐               |
 | **AWS Lambda**       | Serverless functions  | ⭐⭐⭐⭐⭐               |
-| **Kafka**            | Event streaming       | ⭐⭐⭐⭐                |
-| **SQS**              | Queue systems         | ⭐⭐⭐⭐⭐               |
 | **React**            | Frontend frameworks   | ⭐⭐                  |
 | **Vue.js**           | Frontend frameworks   | ⭐                   |
 | **Angular**          | Frontend frameworks   | ⭐                   |
+| **PHP**          | Frontend frameworks   | ⭐⭐                 |
+| **Kafka**            | Event streaming       | ⭐⭐⭐⭐                |
+| **SQS**              | Queue systems         | ⭐⭐⭐⭐⭐               |
+| **EventBridge**              | Queue systems         | ⭐⭐⭐⭐               |
+| **PubSub**              | Queue systems         | ⭐⭐               |
 | **GCP**              | Cloud infrastructure  | ⭐⭐⭐                 |
 | **AWS**              | Cloud infrastructure  | ⭐⭐⭐⭐                |
 
