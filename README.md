@@ -13,10 +13,21 @@
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=flat&logo=awslambda&logoColor=white)
 
 ---
+---
+
+## **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+
+---
 
 ## 📊 Technologies in Action
 
-| **Tech**            | **Experience**         | **Confidence** ⭐⭐⭐⭐⭐ |
+| **Tech**            | **Experience**         | **Confidence**  |
 |----------------------|------------------------|-----------------------|
 | **Node.js**          | Microservices, APIs   | ⭐⭐⭐⭐⭐               |
 | **NestJS**           | Scalable backends     | ⭐⭐⭐⭐⭐               |
@@ -29,17 +40,6 @@
 | **GCP**              | Cloud infrastructure  | ⭐⭐⭐                 |
 | **AWS**              | Cloud infrastructure  | ⭐⭐⭐⭐                |
 
----
-
-## **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-
----
 
 ## 📂 Featured Projects
 
